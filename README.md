@@ -1,2 +1,2 @@
-# gt-block-styles
+# My Block Styles
 Plugin of a collection of block styles
