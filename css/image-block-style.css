@@ -1,0 +1,5 @@
+.is-style-gray-border img{
+    border: 2px solid rgb(65, 64, 64);
+    border-radius: 15px;
+    box-shadow: var(--wp--preset--shadow--natural)
+}
